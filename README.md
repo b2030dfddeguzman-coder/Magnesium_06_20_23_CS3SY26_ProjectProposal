@@ -1,11 +1,11 @@
-# CS3SY26_ProjectProposal by AlMendiza
+# CS3SY26_ProjectProposal by Magnesium Group 9
 
 ## Project Proposal Template
 
-### Project Title or Name of the Application	:
-### Section			   	      :
-### Group Members			    :
-### Date (Proposal Date)  :
+### Project Title or Name of the Application	: Smart Home Simulator
+### Section			   	      : 9 - Magnesium
+### Group Members			    : DE GUZMAN Dneir Fruoy, QUINTOS Joaquin, REGIS Leaf Alfonso
+### Date (Proposal Date)  : 13 November 2026
 
 ### Project Description:
 
